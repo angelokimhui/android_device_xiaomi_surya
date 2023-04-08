@@ -1,0 +1,20 @@
+[
+    {
+        "repository":   "android_device_xiaomi_sm6150-common",
+        "target_path":  "device/xiaomi/sm6150-common"
+    },
+    {
+        "repository":   "ghostrider-reborn/android_kernel_xiaomi_surya",
+        "target_path":  "kernel/xiaomi/surya",
+        "remote":       "github",
+        "branch":       "staging/LA.UM.9.x"
+    },
+    {
+        "repository":   "android_prebuilts_clang_host_linux-x86_clang-r428724",
+        "target_path":  "prebuilts/clang/host/linux-x86/clang-r428724"
+    },
+    {
+        "repository":   "android_vendor_xiaomi_surya",
+        "target_path":  "vendor/xiaomi/surya"
+    }
+]
